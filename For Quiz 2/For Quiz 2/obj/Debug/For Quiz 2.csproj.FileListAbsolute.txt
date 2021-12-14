@@ -1,0 +1,16 @@
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\bin\Debug\For Quiz 2.exe.config
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\bin\Debug\For Quiz 2.exe
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\bin\Debug\For Quiz 2.pdb
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For Quiz 2.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.Frmain.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.frmradio.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.frmcheckbox.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.Properties.Resources.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For Quiz 2.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For Quiz 2.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For Quiz 2.exe
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For Quiz 2.pdb
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.frmcombo.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.frmcmb.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.Frmrandomcombo.resources
+C:\Users\ahmad\source\repos\For Quiz 2\For Quiz 2\obj\Debug\For_Quiz_2.Frmarray.resources
