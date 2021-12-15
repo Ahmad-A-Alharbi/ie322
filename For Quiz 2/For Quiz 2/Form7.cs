@@ -20,6 +20,9 @@ namespace For_Quiz_2
 
         Int32[] iArray = new Int32[5] { 21, 22, 23, 24, 25 };
 
+        Random rnd = new Random();
+        int[] b = new int[500];
+
      
 
 
@@ -68,6 +71,29 @@ namespace For_Quiz_2
 
 
 
+        }
+
+        private void arrayequation_Click(object sender, EventArgs e)
+        {
+            listnumber.Items.Clear();
+            for (int i = 0; i < b.Length; i++)
+            {
+                b[i] = rnd.Next(500, 1000);
+            }
+            listnumber.Text = listnumber.Text + "/n" + "Min of iArray5 is :" + b.Min();
+            listnumber.Text = listnumber.Text + "/n" + "Max of iArray5 is :" + b.Max();
+            listnumber.Text = listnumber.Text + "/n" + "Sum of iArray5 is :" + b.Sum();
+            listnumber.Text = listnumber.Text + "/n" + "Average of iArray5 is :" + b.Average();
+
+            listnumber.Items.Add(b.Min());
+            listnumber.Items.Add(b.Max());
+            listnumber.Items.Add(b.Sum());
+            listnumber.Items.Add(b.Average());
+        }
+
+        private void btnBack5_Click(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.OK;
         }
     }
 }
